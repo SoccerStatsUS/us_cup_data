@@ -1,3 +1,5 @@
+Competition: US Open Cup
+* Need to generalize to super seasons.
 
 
 Season: 1913-1914
@@ -33,6 +35,7 @@ Bethlehem Steel: Fred Pepper
 Season: 1919
 
 Bethlehem Steel: Fred Pepper
+Paterson FC: Archie Stark
 
 Season: 1919-1920
 
@@ -49,105 +52,122 @@ Robins Dry Dock: Pete Renzulli
 Season: 1920-1921
 
 Robins Dry Dock: Pete Renzulli
+Erie AA: Archie Stark, Rabbit Hemingsley
 
 Season: 1921
 
 Bethlehem Steel: Fred Pepper, Tommy Fleming, Harold Brittan
-Erie AA: Archie Stark
+Erie AA: Archie Stark, Rabbit Hemingsley
 Robins Dry Dock: Pete Renzulli
 
 
 Season: 1922
 
-Todd Shipyards: Pete Renzulli, Bill Fryer
+Todd Shipyards: Pete Renzulli, Bill Fryer, Frank McKenna
 Philadelphia Field Club: Alexander Lorimer
 
 
 Season: 1923
 
-Paterson FC: Pete Renzulli
+Paterson FC: Pete Renzulli, Rabbit Hemingsley
 Bethlehem Steel: Tommy Raeside
+New York Field Club: Bart McGhee, Archie Stark
 
 
 Season: 1923-1924
 
-Fall River Marksmen: Tommy Raeside, Fred Morley
+Fall River Marksmen: Tommy Raeside, Fred Morley, Johnny Reid
 Bethlehem Steel: Bill Carnihan
-Paterson FC: Bill Fryer
+Paterson FC: Bill Fryer, Tommy Duggan, Frank McKenna
+New York Field Club: Bart McGhee, James Lonie Terris
 
 
 Season: 1924
 
-Fall River Marksmen: Dougie Campbell, Harold Brittan, Tommy Raeside, Alex Kemp, Fred Morley, Alexander Lorimer
+Fall River Marksmen: Dougie Campbell, Harold Brittan, Tommy Raeside, Alex Kemp, Fred Morley, Alexander Lorimer, Harry McGowan, Edward Tate, Johnny Reid, Frank McKenna, Harry McGowan
 Bethlehem Steel: Bill Carnihan
+New York Field Club: Bart McGhee
+Newark Skeeters: Rabbit Hemingsley
 
 
 Season: 1926
 
 Bethlehem Steel: Archie Stark, Johnny Rollo, Tommy Raeside, Bill Carnihan
-Boston Wonder Workers: Tommy Fleming
-Fall River Marksmen: Dougie Campbell, Harold Brittan, Hugh Coyle, Tommy Croft, Bill Fryer
-Pawtucket Rangers: Johnny Harvey
+Boston Wonder Workers: Tommy Fleming, John McArthur, Dave Priestley, Tommy Steel, Alex McNab, Mickey Hamill
+Fall River Marksmen: Dougie Campbell, Harold Brittan, Hugh Coyle, Tommy Croft, Bill Fryer, Edward Tate, Frank McKenna
+Pawtucket Rangers: Johnny Harvey, Bob Drummond
 Providence Clamdiggers: Alec Beattie, Andy Auld, Tommy Florie, John Izatt, Bobby Curtis, Jack Abel, Walter Dick, Jack Surgenor, Jack Renfrew
 
 
 Season: 1927
 
 Bethlehem Steel: Archie Stark, Johnny Rollo, Bill Carnihan
-Boston Wonder Workers: Tommy Fleming
-Fall River Marksmen: Dougie Campbell, Harold Brittan, Robert Rock
-Newark Skeeters: Jack Renfrew
-Brooklyn Wanderers: Dezso Grosz
+Boston Wonder Workers: Tommy Fleming, John McArthur, Dave Priestley, Alex McNab, Scotty Nilsen
+Fall River Marksmen: Dougie Campbell, Harold Brittan, Robert Rock, Bobby Blair, Jimmy Kelly
+Newark Skeeters: Jack Renfrew, Bob Drummond, Harry McGowan, Jim Green, Tommy Duggan, Bill Daley, Johnny Herd, Tommy Murdoch
+Brooklyn Wanderers: Dezso Grosz, Nemes Neufeld, Leo Drucker, Bobby Yule, Paul Mahrer, Josef Eisenhoffer, Bill Morris, Dave McMillan
+Indiana Flooring: Herbert Carlson, Bart McGhee, Alec Donald, Billy Hyslop, James Lonie Terris, George Jenkins, Bob Millar
 
 
 Season: 1928
 
 Bethlehem Steel: Archie Stark, Johnny Rollo, Bill Carnihan
-Boston Wonder Workers: Tommy Fleming
-Fall River Marksmen: Harold Brittan, Billy Pitt, Johnny Harvey
-Brooklyn Wanderers: Bobby Curtis
+Boston Wonder Workers: Tommy Fleming, Bobby Blair, Tommy Blair, John McArthur, Alex McNab
+Fall River Marksmen: Harold Brittan, Billy Pitt, Johnny Harvey, Jimmy Kelly
+Brooklyn Wanderers: Bobby Curtis, Bobby Yule, Josef Eisenhoffer, Bill Morris, Dave McMillan
+Newark Skeeters: Jim Green
 
 
 Season: 1929
 
 
-Hakoah All-Stars: Dezso Grosz
+Hakoah All-Stars: Dezso Grosz, Leo Drucker, Paul Mahrer, Josef Eisenhoffer
 Bethlehem Steel: Archie Stark, Johnny Rollo, Bill Carnihan
 
 
 Season: 1930
 
 Bethlehem Steel: Archie Stark, Johnny Rollo, Billy Pitt, Bill Carnihan
-Fall River Marksmen: Milton Gavin, 
-Brooklyn Wanderers: Dezso Grosz
+Fall River Marksmen: Milton Gavin, Dave Priestley, Scotty Nilsen
+Brooklyn Wanderers: Dezso Grosz, Bobby Yule, Josef Eisenhoffer
 
 
 Season: 1931
 
-Fall River Marksmen: Billy Gonsalves
+Fall River Marksmen: Billy Gonsalves, Alex McNab, Scotty Nilsen
 Newark Americans: Johnny Rollo, Andy Beveridge, Bill Fryer
 
 
+Season: 1932
+
+Stix, Baer & Fuller: William Lehman, Jimmy Nolan, Frank Pastor, Lou Ahrens, Willie McLean, Bob Gregg, Elmer Benoist, Eddie Hart, Jimmy Roe
+
 Season: 1933
 
+Andersons: Elmer Benoist
 Brookhattan: George Barr, Razzo Carroll, 
 New York Americans: Stan Chesney
-Stix, Baer & Fuller: Billy Gonsalves
-Chicago Sparta ABA: Billy Gonsalves
+Stix, Baer & Fuller: Billy Gonsalves, Alex McNab, William Lehman, Charles LaBarge, Jimmy Nolan, Frank Pastor, Lou Ahrens, Willie McLean, Bob Gregg, Eddie Hart, Jimmy Roe, Tommy Roe, Ollie Bohlman, Eddie Flavin, Billy Watson, Scotty Nilsen, Harry Hebberger
 Pawtucket Rangers: Andy Auld
 
 
 Season: 1934
 
 Brooklyn Hispano: Duncan Othen
-New York Americans: Stan Chesney
+New York Americans: Stan Chesney, Dezso Grosz
+Stix, Baer & Fuller: Eddie Flavin, Jim McGowan
+
+
+Season: 1935
+
+Stix, Baer & Fuller: William Lehman, Jimmy Nolan, Frank Pastor, Willie McLean, Jimmy Roe
 
 
 Season: 1936
 
 Brookhattan: George Barr, Razzo Carroll, 
 Brooklyn Hispano: Duncan Othen, Fabri Salcedo
-New York Americans: Stan Chesney
+New York Americans: Stan Chesney, Dezso Grosz
 Brooklyn St. Mary's Celtic: Ed Czerkiewicz
 
 
@@ -155,8 +175,9 @@ Season: 1937
 
 Brookhattan: George Barr, Razzo Carroll, 
 Brooklyn Hispano: Duncan Othen, Fabri Salcedo
-New York Americans: Stan Chesney
+New York Americans: Stan Chesney, Dezso Grosz
 Kearny Scots: Johnny Bryndza
+Kearny Celtic: Ed Parodi
 
 
 Season: 1938
@@ -227,8 +248,15 @@ Season: 1955
 New York Hakoah: Jack Hynes
 
 
+Season: 1956
+
+Chicago Schwaben: Lother Wichert, Walter Juengling, Nick Bogner
+
+
 Season: 1957
 
 New York Hakoah: Jack Hynes
+
+
 
 
